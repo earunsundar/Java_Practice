@@ -1,0 +1,6 @@
+samplePrograms/primeNumbers.java
+ samplePrograms.primeNumbers
+samplePrograms/Palindrome.java
+ samplePrograms.Palindrome
+samplePrograms/starPattern.java
+ samplePrograms.starPattern
